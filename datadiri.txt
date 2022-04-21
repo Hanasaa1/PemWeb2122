@@ -1,0 +1,2 @@
+nim  = A710200068
+nama = Hana Sajida
